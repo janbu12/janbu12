@@ -8,7 +8,13 @@ I'm a 20-year-old Informatics Engineering student at Universitas Komputer Indone
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=janbu12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+###
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=janbu12&theme=gruvbox&hide_border=false)<br/>
+
+###
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janbu12&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
