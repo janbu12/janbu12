@@ -27,9 +27,6 @@ I'm a 20-year-old Informatics Engineering student at Universitas Komputer Indone
   
 </div
 
----
-[![](https://visitcount.itsvg.in/api?id=janbu12&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janbu12/janbu12/output/github-snake-dark.svg" />
