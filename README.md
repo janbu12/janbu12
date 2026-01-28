@@ -26,7 +26,9 @@ I am a seventh-semester Informatics Engineering student at Universitas Komputer 
   
   ![](https://github-profile-trophy.vercel.app/?username=janbu12&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
   
-</div
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janbu12&label=Profile%20views&color=0e75b6&style=flat" alt="janbu12" /> </p>
 
 <div align="center">
   <picture>
@@ -35,5 +37,4 @@ I am a seventh-semester Informatics Engineering student at Universitas Komputer 
     <img alt="github-snake" src="https://raw.githubusercontent.com/janbu12/janbu12/output/github-snake.svg" />
   </picture>
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
