@@ -1,5 +1,14 @@
 ## 💫 About Me:
-I am a seventh-semester Informatics Engineering student at Universitas Komputer Indonesia, with a passion for software engineering, web development, and data science. I specialize in creating intuitive and functional digital experiences using modern programming languages and frameworks.<br><br>- 🔭 Currently learning **Web Developer** and expanding skills in **Android Development**.  <br>- 🌱 Exploring the intersection of **Frontend** and **Backend** development with tools like **React**, **Next.js**, **Express.js**, **Laravel**, and any.  <br>- 🧩 Interested in solving real-world problems through **Critical Thinking** and **Collaboration**. <br>- 🕵️ lately I'm interested in linux os, to create a kind of **Nginx server, Apache, Franken PHP, Caddy** for web development needs.
+I am a fourth-year Informatics Engineering student at Universitas Komputer Indonesia with a strong passion for software engineering, web development, and scalable system design. I focus on building efficient, maintainable, and user-centric digital solutions using modern technologies.
+
+- 🚀 Experienced in Full-Stack Development, working across frontend and backend using React, Next.js, Express.js, Laravel, NestJS, and FastAPI.
+- 🖥️ Hands-on experience in managing VPS environments and configuring production-ready web servers such as Nginx, Apache, Caddy, and FrankenPHP.
+- ⚙️ Skilled in implementing CI/CD pipelines using GitHub Actions to streamline development and deployment processes.
+- 🐳 Familiar with containerization and deployment workflows using Docker & Docker Compose for production environments.
+- ⚡ Experienced in optimizing performance using Redis for caching and improving system efficiency.
+- 📱 Built mobile applications using Kotlin and Flutter, focusing on usability and performance.
+- 🐧 Currently deepening expertise in Linux systems and backend architecture to strengthen infrastructure-level understanding.
+- 🧠 Passionate about problem-solving, critical thinking, and collaborating to deliver impactful solutions.
 
 
 ## 💻 Tech Stack:
